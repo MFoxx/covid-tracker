@@ -1,7 +1,5 @@
 # Covid-19 Tracker Application
 
-## [Live demo](https://github.com/MFoxx/covid-tracker/settings)
-
 ## Notes
 
 This app is created from [tutorial by JavaScriptMastery](https://youtu.be/khJlrj3Y6Ls), that I refactored.
