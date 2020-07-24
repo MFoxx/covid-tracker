@@ -14,17 +14,17 @@ const Cards = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
 			<Grid container spacing={3} justify="center">
 				<CardElement
 					cases={confirmed}
-					lastUpdate
+					lastUpdate={lastUpdate}
 					text={{ name: 'Infected', desc: 'Number of active cases of COVID-19' }}
 				/>
 				<CardElement
 					cases={recovered}
-					lastUpdate
+					lastUpdate={lastUpdate}
 					text={{ name: 'Recovered', desc: 'Number of recovered from COVID-19' }}
 				/>
 				<CardElement
 					cases={deaths}
-					lastUpdate
+					lastUpdate={lastUpdate}
 					text={{ name: 'Deaths', desc: 'Number of deaths caused by COVID-19' }}
 				/>
 			</Grid>
