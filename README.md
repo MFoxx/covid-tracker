@@ -1,6 +1,6 @@
 # Covid-19 Tracker Application
 
-## [Live demo](https://google.sk)
+## [Live demo](https://github.com/MFoxx/covid-tracker/settings)
 
 ## Notes
 
